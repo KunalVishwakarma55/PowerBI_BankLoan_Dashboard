@@ -56,7 +56,7 @@ This dashboard is ideal for:
 
 | Summary | Overview | Details |
 |--------|----------|---------|
-| ![Summary](images/summary.png) | ![Overview](images/overview.png) | ![Details](images/details.png) |
+| ![Summary](Images/Summary.png) | ![Overview](Images/Overview.png) | ![Details](Images/Details.png) |
 
 ---
 
