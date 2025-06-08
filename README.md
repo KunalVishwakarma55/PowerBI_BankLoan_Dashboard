@@ -44,14 +44,6 @@ This project is a **Power BI Dashboard** that analyzes bank loan data, offering 
 
 ---
 
-## 📦 Use Case
-
-This dashboard is ideal for:
-- ✅ Banking & Financial Analysts  
-- ✅ Loan Officers & Risk Assessment Teams  
-
----
-
 ## 📷 Screenshots
 
 | Summary | Overview | Details |
@@ -60,11 +52,6 @@ This dashboard is ideal for:
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use for personal or educational purposes.
-
----
 
 ## 👨‍💻 Author
 
